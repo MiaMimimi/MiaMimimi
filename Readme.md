@@ -51,11 +51,11 @@ I’m an iOS engineer 🚀 who lives by the code: clarity over cleverness, simpl
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/786352192198306217/63E8DAED54ED74A834762A7DE9533AF8D7208418/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"  />
 </div> 
-
+-->
 
 
 <!--  Dev Quote  -->
