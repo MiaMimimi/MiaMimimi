@@ -1,7 +1,7 @@
 <h1 align="center">Hi!🚀🔥👋 My name Mari!</h1>
 
 ###
-“I’m an iOS engineer 🚀 who lives by the code: clarity over cleverness, simplicity over complexity, and user experience above all. When I build, I don’t just write apps — I craft solutions that feel smooth, work flawlessly, and stand the test of time ⚡️”
+I’m an iOS engineer 🚀 who lives by the code: clarity over cleverness, simplicity over complexity, and user experience above all. When I build, I don’t just write apps — I craft solutions that feel smooth, work flawlessly, and stand the test of time ⚡️
 
 <!--  List  -->
 # 
@@ -18,14 +18,14 @@
 <!--  Git Status  -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LetTheBeLight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LetTheBeLight&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MiaMimimi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiaMimimi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
 <!--  Visitors Status  -->
 
-[![](https://visitcount.itsvg.in/api?id=LetTheBeLight&icon=2&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MiaMimimi&icon=2&color=8)](https://visitcount.itsvg.in)
 
 <!--  Snake  -->
 ###
@@ -69,6 +69,6 @@
 ###
 
 
-![](https://github-profile-trophy.vercel.app/?username=LetTheBeLight&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MiaMimimi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
