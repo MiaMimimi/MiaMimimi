@@ -10,7 +10,7 @@
 <!--  Profile counter  -->
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/LetTheBeLight/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/MiaMimimi/count.svg?"  />
 </div>
 
 ###
