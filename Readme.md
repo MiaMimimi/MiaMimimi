@@ -1,4 +1,4 @@
-<h1 align="center">Hi!👋 My name Mari!</h1>
+<h1 align="center">Hi!🚀🔥👋 My name Mari!</h1>
 
 ###
 “I’m an iOS engineer 🚀 who lives by the code: clarity over cleverness, simplicity over complexity, and user experience above all. When I build, I don’t just write apps — I craft solutions that feel smooth, work flawlessly, and stand the test of time ⚡️”
